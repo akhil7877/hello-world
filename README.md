@@ -1,3 +1,4 @@
 # hello-world
 
-This is a test document for learning GitHub.
+My name is Akhil. I am learning to use GitHub
+I am learning AWS.
